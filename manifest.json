@@ -21,6 +21,7 @@
 		"downloads",
 		"http://*/*",
 		"https://*/*",
+		"file://*/*",
 		"tabs",
 		"webNavigation"
 	]
